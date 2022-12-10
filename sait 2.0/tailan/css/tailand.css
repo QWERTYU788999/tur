@@ -1,0 +1,106 @@
+#top {
+    width: 100%;
+    height: 100%;
+    background-image: url(https://s1.1zoom.ru/big0/851/Island_Boats_Thailand_Phiphi_Islands_Krabi_607363_1280x854.jpg);
+    background-blend-mode: multiply;
+    background-color: #2e3a44;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+  }
+  
+  @media (min-width: 1001px) {
+    #top {
+      font-size: 30px;
+      height: 1000px;
+    }
+  }
+  
+  @media (max-width: 1000px) and (min-width: 651px) {
+    #top {
+      font-size: 20px;
+      height: 600px;
+    }
+  }
+  
+  @media (max-width: 650px) {
+    #top {
+      font-size: 1.3em;
+      padding-top: 50%;
+      height: 500px;
+    }
+  }
+  
+  @media (max-width: 450px) {
+    #top {
+      font-size: 0.9em;
+    }
+  }
+  
+  #top h1 {
+    padding-top: 350px;
+  }
+  
+  #top h3 {
+    color: #ccc;
+  }
+  #otal{
+    width: 100%;
+    height: 100%;
+  }
+  #otal .img{
+    width: 300px;
+    height: 230px;
+    float: left;
+    margin-top: 10px;
+  }
+  #otal h1{
+    float: left;
+    margin-left: 10px;
+    font-size: 25px;
+  }
+  #otal span{
+    float: left;
+    color: #2e3a44;
+    margin-left: 10px;
+  }
+  #otal h3{
+    color: #2e3a44;
+    font-size: 20px;
+    float: left;
+    margin-left: 10px;
+  }
+  #otal .cen{
+    font-size: 30px;
+    float: left;
+    margin-left: 15px;
+  }
+  #otal .vk{
+    width: 100%;
+  }
+   .sam-1{
+    width: 40px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .sam{
+    width: 200px;
+    float: left;
+ }
+
+  .tran{
+    width: 200px;
+    float: left;
+    margin-left: 30px;
+  }
+  .st h1{
+    text-align: left;
+    font-size: 15px;
+    margin-top: 20px;
+  }
+  body{
+font-family: sans-serif;
+
+  }
+  
